@@ -1,0 +1,30 @@
+.main {
+    height: 100%;
+}
+.map {
+    bottom: 0px;
+    height: 100%;
+    left: 362px;
+    position: absolute;
+    right: 0px;
+}
+header {
+    width: 17%;
+    font-size: 20px;
+    padding: 5px;
+    background-color: grey;
+}
+ul {
+    list-style: none;
+    font-size: 150%;
+}
+li.places {
+    padding: 5px;
+    background-color: blue;
+    position: relative;
+    right: 30px;
+    width: 20%;
+}
+hr {
+    opacity: 0;
+}
